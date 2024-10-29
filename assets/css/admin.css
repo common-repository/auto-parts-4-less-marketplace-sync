@@ -1,0 +1,287 @@
+/*=======================================================*/
+/*Error Start*/
+.ap4lError.alert-info {
+    margin: 20px 20px 0 0;
+    padding: 12px 50px 12px 10px;
+    z-index: 9;
+}
+
+.ap4lError .btn-close {
+    padding: 1rem 1rem;
+}
+
+.ap4lError.alert-success {
+    background-color: #00800094;
+    border-color: #00800094;
+    color: #ffffff;
+}
+
+.ap4lError.alert-danger {
+    background: red;
+    background-color: red;
+    border-color: red;
+    color: white;
+}
+
+.ap4lModule select option:disabled {
+    background-color: gray;
+    color: white;
+}
+
+.ap4lWcAttr .form-field label span {
+    color: red;
+}
+
+/*=======================================================*/
+.MainAccountModule h2 {
+    text-transform: capitalize;
+}
+
+.ap4lModule form label.error {
+    color: red;
+}
+
+.ap4lModule form label span {
+    color: red;
+}
+
+.ap4lModule .select2-selection__placeholder,
+.ap4lModule .select2-selection__rendered {
+    color: black !important;
+}
+
+.ap4lModule .select2-selection.select2-selection--single {
+    border-color: #8c8f94;
+}
+
+/*=======================================================*/
+/*Error Start*/
+.ap4lError.alert-info {
+    margin: 20px 20px 0 0;
+    padding: 12px 50px 12px 10px;
+    z-index: 9;
+}
+
+.ap4lError .btn-close {
+    padding: 1rem 1rem;
+}
+
+.ap4lError.alert-success {
+    background-color: #00800094;
+    border-color: #00800094;
+    color: #ffffff;
+}
+
+.ap4lError.alert-danger {
+    background: red;
+    background-color: red;
+    border-color: red;
+    color: white;
+}
+
+/*=======================================================*/
+.ap4lModule h2 {
+    text-transform: capitalize;
+}
+
+.ap4lModule .button-primary {
+    text-transform: capitalize;
+}
+
+.ap4lModule select#policySelect {
+    vertical-align: super;
+}
+
+/*=======================================================*/
+/*Listing Inner Page*/
+.AP4LlistingInner .topPart {
+    display: flex;
+    align-items: baseline;
+}
+
+.AP4LlistingInner .ListingInformation {
+    margin: 20px 0;
+}
+
+.AP4LlistingInner .topPart {
+    display: flex;
+    align-items: baseline;
+}
+
+.AP4LlistingInner .ListingInformation {
+    margin: 20px 0;
+}
+
+.AP4LlistingInner {
+    margin-top: 20px;
+}
+
+.ListingInformation span {
+    font-weight: bold;
+}
+
+.topPart h2 {
+    display: inline;
+}
+
+.topPart .button {
+    margin: 8px 10px;
+}
+
+.ListingInformation p {
+    margin: 5px;
+}
+
+.AP4LlistingInner {
+    margin-top: 20px;
+}
+
+.ListingInformation span {
+    font-weight: bold;
+}
+
+.topPart h2 {
+    display: inline;
+}
+
+.topPart .button {
+    margin: 8px 10px;
+}
+
+.ListingInformation p {
+    margin: 5px;
+}
+
+.ListingInformation .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+}
+
+.ListingInformation .col-sm {
+    width: 33.33%;
+    position: relative;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.OrderItems p {
+    line-height: 0.7;
+}
+
+.OrderItems p span {
+    font-weight: bold;
+}
+
+.ap4lOrdersShipping p input {
+    margin-top: 5px
+}
+
+.singleShipping p {
+    margin: 0;
+}
+
+.loaderImage {
+    display: none;
+    max-width: 20px;
+    vertical-align: text-bottom;
+}
+
+.form-field.required.error input,
+.form-field.required.error select {
+    border: solid 1px red;
+}
+
+p.responceMsg.error {
+    color: red;
+}
+
+p.responceMsg.success {
+    color: green;
+}
+
+.ap4lOrdersShipping img.loaderImage {
+    max-width: 20px;
+}
+
+.ap4lError.d-none {
+    display: none;
+}
+
+/*=======================================================*/
+/*Listing Inner Page*/
+
+.OrderItems p {
+    line-height: 0.7;
+}
+
+.OrderItems p span {
+    font-weight: bold;
+}
+
+.ap4lOrdersShipping p input {
+    margin-top: 5px
+}
+
+.singleShipping p {
+    margin: 0;
+}
+
+.loaderImage {
+    display: none;
+    max-width: 20px;
+    vertical-align: text-bottom;
+}
+
+.form-field.required.error input,
+.form-field.required.error select {
+    border: solid 1px red;
+}
+
+p.responceMsg.error {
+    color: red;
+}
+
+p.responceMsg.success {
+    color: green;
+}
+
+.ap4lOrdersShipping img.loaderImage {
+    max-width: 20px;
+}
+
+.ListingInformation .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+}
+
+.ListingInformation .col-sm {
+    width: 33.33%;
+    position: relative;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.ap4lError.d-none,
+.d-none {
+    display: none;
+}
+
+.form-table select {
+    width: 25em;
+}
+
+.items.column-items p {
+    margin: 0;
+}
+
+.items.column-items p span {
+    font-weight: bold;
+}
+.woocommerce_options_panel.ap4lWcAttr{
+    min-height: auto;
+}
+.toplevel_page_ap4l li:nth-child(7) {
+    display: none;
+}
